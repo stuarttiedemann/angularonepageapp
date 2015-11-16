@@ -1,4 +1,5 @@
 function homesForSale(title,image, address, forsale, price, zestimate, comment, mortgage){
+	this.title = title,
 	this.image = image,
 	this.address = address,
 	this.forsale = forsale,
